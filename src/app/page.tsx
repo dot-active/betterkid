@@ -29,7 +29,7 @@ export default function HomePage() {
       <section className="pr-bg text-white py-20">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Reward Kids for Chores, Spark Financial Smarts!
+            Reward Kids for Chores, Spark Financial Smarts!!
           </h1>
           <p className="text-xl md:text-2xl mb-8 opacity-90">
             Turn chores into fun adventures with coins and rewards!
